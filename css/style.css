@@ -4,5 +4,14 @@ height: 584px;
 }
 .card-radius{
     border-radius: 30px;
+    height: 480px; 
+    width: 292px;
 }
-/* <span class="badge rounded-pill bg-danger position-relative top-0 start-100">Hot</span> */
+ .topping{
+    text-decoration: none;
+    border-radius: 20px;
+    position: relative;
+    top: -25px;
+    padding: 10px 10px;
+    right: 40px;
+}
